@@ -1,0 +1,2 @@
+# Evolution-differentielle-
+Algorithme de selection de variables pour préparer un apprentissage non supervisé. La version finale du programme est sélectionne les variables en effectuant un apprentissage à cahque génération. La métrique optimisée (dans le cadre du dataset utilisé) est l'accuracy. || Variable selection algorithm to prepare an unsupervised learning. The final version of the program selects the variables by performing a learning at each generation. The optimized metric (in the context of the dataset used) is the accuracy rate.
